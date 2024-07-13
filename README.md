@@ -1,8 +1,7 @@
-Name: R SUNILKUMAR
-Company: CODETECH IT SOLUTIONS
-ID:CT4D4099
-Domain:DEVOPS
-Duration:JULY 5th TO AUGUST 5th
+Name: R SUNILKUMAR                                                                                                                                                                                           
+Company: CODETECH IT SOLUTIONS                                                                                                                                                                            
+ID:CT4D4099                                                                                                                                                                                              
+Domain:DEVOPS                                                                                                                                                                                           Duration:JULY 5th TO AUGUST 5th                                                                                                                                                                                
 Mentor:
 
 **Overwiew Of The Project**
