@@ -12,9 +12,6 @@ terraform plan : it will show what exactly going to be created
 Terraform apply : it will created resoucre(Ec2 Instance)
 Terraform Destroy : it will destroy the created resources
 
-
-
-
 **Technologies Used:-**
 Python
 AWS Devops
