@@ -7,11 +7,11 @@ Mentor:
 
 **Overwiew Of The Project**
 
-Project: Creation Of EC2 Instance With The Help Teraform Modules                                                                                                                                         
-Terraform init: Initialize ann empty git repository                                                                                                                                                        
-Terraform plan : it will show what exactly going to be created                                                                                                                                             
-Terraform apply : it will created resoucre(Ec2 Instance)                                                                                                                                                   
-Terraform Destroy : it will destroy the created resources
+**Project:** Creation Of EC2 Instance With The Help Teraform Modules                                                                                                                                         
+**Terraform init:** Initialize ann empty git repository                                                                                                                                                        
+**Terraform plan:** it will show what exactly going to be created                                                                                                                                             
+**Terraform apply:** it will created resoucre(Ec2 Instance)                                                                                                                                                   
+**Terraform Destroy:** it will destroy the created resources
 
 **Technologies Used:-** 
  Python                                                                                                                                                                                                            
